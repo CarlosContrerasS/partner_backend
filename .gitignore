@@ -6,6 +6,19 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+#idea
+.idea
+
+.mvn
+mvnw
+mvnw.cmd
+partner.iml 
+help.md
+
+target
+
+
+
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
