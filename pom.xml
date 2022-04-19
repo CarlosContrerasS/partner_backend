@@ -10,7 +10,7 @@
     </parent>
     <groupId>cl.forum</groupId>
     <artifactId>partner</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0-RC</version>
     <name>partner</name>
     <description>partner</description>
     <properties>
